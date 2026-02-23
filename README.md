@@ -29,3 +29,22 @@ The presence of SQL Injection and Cross-Site Scripting vulnerabilities indicates
 These issues can lead to data theft, session hijacking, and full system compromise.
 Immediate remediation is required.
 
+## Task 2 - Phishing Email Detection
+
+### Phishing Indicators Identified:
+- Spoofed sender email address
+- Urgency language ("Act Now!", "Verify immediately")
+- Suspicious hyperlinks (mismatched URLs)
+- Poor grammar and spelling errors
+- Requests for sensitive information
+
+### Tools Used:
+- Manual Analysis
+- MXToolbox (email header analysis)
+- VirusTotal (suspicious link scanning)
+
+### Conclusion:
+Phishing emails exploit human psychology through social 
+engineering. Users must verify sender identity and avoid 
+clicking unverified links.
+
