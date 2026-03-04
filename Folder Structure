@@ -1,0 +1,10 @@
+FUTURE_CS_02/
+├── README.md
+├── screenshots/
+│   ├── 01_email_sample.png
+│   ├── 02_header_analysis.png
+│   ├── 03_virustotal_scan.png
+│   └── 04_suspicious_link.png
+└── phishing_report.pdf
+
+
